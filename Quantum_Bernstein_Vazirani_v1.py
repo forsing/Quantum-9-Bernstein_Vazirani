@@ -59,9 +59,9 @@ np.random.seed(39)
 
 
 FILES = (
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_2980.csv"),
-    Path("/Users/4c/Desktop/GHQ/data/loto7_4716_k89_loto_plus_1736.csv"),
+    Path("/data/loto7_4716_k89.csv"),
+    Path("/data/loto7_4716_k89_loto_2980.csv"),
+    Path("/data/loto7_4716_k89_loto_plus_1736.csv"),
 )
 
 N = 39
@@ -1155,14 +1155,6 @@ if __name__ == "__main__":
 
 
 
-
-
-
-
-
-
-
-
 """
 Quantum Bernstein-Vazirani
 Qiskit: 1.4.4
@@ -1536,11 +1528,11 @@ POREDJENJE TRI NEZAVISNA REZULTATA
 
 ========================================================================
 
-loto7_4716_k89.csv NEXT: 6 10 19 25 29 31 34
+loto7_4716_k89.csv NEXT: 6 x 19 y 29 z 34
 
-loto7_4716_k89_loto_2980.csv NEXT: 12 14 17 18 27 33 34
+loto7_4716_k89_loto_2980.csv NEXT: 12 x 17 y 27 z 34
 
-loto7_4716_k89_loto_plus_1736.csv NEXT: 10 13 17 19 24 26 39
+loto7_4716_k89_loto_plus_1736.csv NEXT: 10 x 17 y 24 z 39
 """
 
 
