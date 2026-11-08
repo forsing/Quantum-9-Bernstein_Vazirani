@@ -15,7 +15,7 @@ https://github.com/forsing?tab=repositories
 Loto Skraceni Sistemi
 https://www.lotoss.info
 ABBREVIATED LOTTO SYSTEMS
- 
+    
  
 svih 4716 izvlacenja
 30.07.1985.- 06.11.2026.
